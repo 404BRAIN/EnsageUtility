@@ -17,12 +17,12 @@ namespace KarlAschnikov
         // just memeing ^_^ 
         public static string[] Disrespect =
         {
-            "What's the difference between {0} and eggs? Eggs get laid and {0} doesn't.",
-            "{0}'s birth certificate is an apology letter from the condom factory.",
-            "{0} must have been born on a highway because that's where most accidents happen.",
-            "If I wanted to kill myself I'd climb your ego and jump to your skill {0}",
-            "Roses are red violets are blue, God made me great, the opposite of you. ",
-            "{0} you are so useless I would unplug your life support to charge my phone.",
+            "Wtf ! Noob quit dota please idiot.",
+            "Potang ina mo ,ano ka ngayon, wag lalapit sa malakas.",
+            "Idiot noob cyka bylat!!.",
+            "wew ez {0}",
+            "Quit dota please . ",
+            "????? why so ez .",
             "You are a disgrace to your family {0}",
             "Somewhere out there is a tree, tirelessly producing oxygen so you can breathe. I think you owe it an apology {0}.",
             "You are so bad valve will bring back the unskilled report option {0}.",
